@@ -6,9 +6,11 @@
 准备工作:由于部分国外网络访问受限，建议准备一个稳定的网络工具，以保证能够顺利打开和下载资源。
 
 在搭建前，请确保拥有以下账号：
-👉推荐网络工具使用：(此项是付费服务，已经测试能长期稳定使用)https://user.vpn4.top/s/#/register?code=dEe7WSkW
-Cloudflare 账号https://www.cloudflare.com/zh-cn/
-Telegram 
+👉一把好用梯子
+
+👉 Cloudflare 账号https://www.cloudflare.com/zh-cn/
+
+👉Telegram 
 账号以上三个缺一不可.
 
 搭建步骤
