@@ -39,7 +39,7 @@ Telegram
 
 回到workers页面,选择你刚创建的workers,点击 编辑代码
 
-进入这个网页https://github.com/kissimok/ljj/blob/main/worker.js，点击图中按钮复制，将代码复制到cloudflare的编辑代码窗口,然后点右上角的保存并
-部署以上都做完后，回到你的workers，有一个访问 点开他你能获得一个网址类似这样:https://cold-XXXXXXXXXXXX.lunjiejie.workers.dev，将这个网址复制到浏览器，在后面添加"/registerWebhook"，然后回车，网页中会弹出OK。至此，Telegram 私聊机器人搭建完成！
+进入这个网页https://github.com/kissimok/ljj/blob/main/worker.js ，点击图中按钮复制，将代码复制到cloudflare的编辑代码窗口,然后点右上角的保存并
+部署以上都做完后，回到你的workers，有一个访问 点开他你能获得一个网址类似这样:https://cold-XXXXXXXXXXXX.lunjiejie.workers.dev ，将这个网址复制到浏览器，在后面添加"/registerWebhook"，然后回车，网页中会弹出OK。至此，Telegram 私聊机器人搭建完成！
 
 转载至：https://mp.weixin.qq.com/s/_A3fRzjUHz08jILyFDIyog
