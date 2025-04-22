@@ -1,4 +1,4 @@
-# Mr.Robot
+# Mr.Robot（telegram双向机器人）
 ### KV空间创建名称填写 nfd
 
 私聊机器人有以下优势：不暴露原账号、解决 +86 号码无法私聊的问题、无需服务器，简单易用。
@@ -37,9 +37,9 @@ Telegram
 
 创建一个KV名称输入nfd,添加然后回到概述在点进去项目名称找到设置点进去找到 绑定 在点添加在点 KV 命名空间选择之前部署好的,名称取一样
 
-回到workers页面,选择你刚创建的workers,点击 编辑代码进入这个网页，点击图中按钮复制https://github.com/kissimok/ljj/blob/main/worker.js复制到这个框里,然后点右上角的保存并部署以上都做完后，回到你的workers，有一个访问 点开他你能获得一个网址
-类似这样:https://cold-XXXXXXXXXXXX.lunjiejie.workers.dev将这个网址复制到浏览器，在后面添加"/registerWebhook"，然后回车
-网页中会弹出OK
-至此，Telegram 私聊机器人搭建完成！
+回到workers页面,选择你刚创建的workers,点击 编辑代码
+
+进入这个网页https://github.com/kissimok/ljj/blob/main/worker.js，点击图中按钮复制，将代码复制到cloudflare的编辑代码窗口,然后点右上角的保存并
+部署以上都做完后，回到你的workers，有一个访问 点开他你能获得一个网址类似这样:https://cold-XXXXXXXXXXXX.lunjiejie.workers.dev，将这个网址复制到浏览器，在后面添加"/registerWebhook"，然后回车，网页中会弹出OK。至此，Telegram 私聊机器人搭建完成！
 
 转载至：https://mp.weixin.qq.com/s/_A3fRzjUHz08jILyFDIyog
